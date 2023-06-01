@@ -1,0 +1,5 @@
+{"_id":{"$oid":"64328d9c954d2742592ac420"},"id":1,"cat_name":"iPhone"}
+{"_id":{"$oid":"64328dd2954d2742592ac432"},"id":2,"cat_name":"Samsung"}
+{"_id":{"$oid":"64328dd2954d2742592ac435"},"id":3,"cat_name":"Nokia"}
+{"_id":{"$oid":"64328dd2954d2742592ac438"},"id":4,"cat_name":"Oppo"}
+{"_id":{"$oid":"64328dd2954d2742592ac43b"},"id":5,"cat_name":"Blackberry"}
